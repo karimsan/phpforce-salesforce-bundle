@@ -16,6 +16,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/karimsan/phpforce-soap-client"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/karimsan/phpforce-common"
         }
     ],
     "require": {
